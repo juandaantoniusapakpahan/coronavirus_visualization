@@ -7,3 +7,9 @@ http://marsiurupan.com/coronavirusWDC.html
 Data yang digunakan pada web data connector diambil dari Coronavirus COVID19 API - Postman.
 
 https://api.covid19api.com/summary
+
+# Dashboard 1
+![](Visualization%20PNG/Panel%20Civid-19%20(2).png)
+
+# Dashboard 2
+![](Visualization%20PNG/Panel%20Covid-19%20(1).png)
