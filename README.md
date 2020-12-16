@@ -8,6 +8,10 @@ Data yang digunakan pada web data connector diambil dari Coronavirus COVID19 API
 
 https://api.covid19api.com/summary
 
+Untuk sumber data dengan format CSV dapat diperoleh dari link berikut:
+
+https://github.com/owid
+
 # Dashboard 1
 ![](Visualization%20PNG/Panel%20Civid-19%20(2).png)
 
