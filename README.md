@@ -12,12 +12,22 @@ https://api.covid19api.com/summary
 
 https://github.com/owid
 
-## Dashboard 1
-![](Visualization%20PNG/Panel%20Civid-19%20(2).png)
-#### Dashboard1 dapat dilihat dari website tableau berikut ini: 
-https://public.tableau.com/profile/yeni.panjaitan#!/vizhome/Book2_16071039659160/PanelCivid-192
+## Idiom Visualisasi 1
+dapat dilihat dari website tableau berikut ini: 
+https://public.tableau.com/profile/yeni.panjaitan#!/vizhome/ProyekDashboard2/Crosstab
 
-## Dashboard 2
-![](Visualization%20PNG/Panel%20Covid-19%20(1).png)
-#### Dashboard2 dapat dilihat dari website tableau berikut ini:
-https://public.tableau.com/profile/yeni.panjaitan#!/vizhome/Book2_16071039659160/PanelCovid-191
+## Idiom Visualisasi 2
+dapat dilihat dari website tableau berikut ini:
+https://public.tableau.com/profile/yeni.panjaitan#!/vizhome/ProyekDashboard2/Treemap
+
+## Idiom Visualisasi 3
+dapat dilihat dari website tableau berikut ini:
+https://public.tableau.com/profile/yeni.panjaitan#!/vizhome/ProyekDashboard2/Chloropeth
+
+## Idiom Visualisasi 4
+dapat dilihat dari website tableau berikut ini:
+https://public.tableau.com/profile/yeni.panjaitan#!/vizhome/ProyekDashboard2/BarChart
+
+## Dashboard COVID-19
+dapat dilihat dari website tableau berikut ini:
+https://public.tableau.com/profile/yeni.panjaitan#!/vizhome/ProyekDashboard2/Dashboard
