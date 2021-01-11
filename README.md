@@ -13,18 +13,22 @@ https://api.covid19api.com/summary
 https://github.com/owid
 
 ## Idiom Visualisasi 1
+![](Visualization%20PNG/Text%20Table.png)
 dapat dilihat dari website tableau berikut ini: 
 https://public.tableau.com/profile/yeni.panjaitan#!/vizhome/ProyekDashboard2/Crosstab
 
 ## Idiom Visualisasi 2
+![](Visualization%20PNG/Treemaps.png)
 dapat dilihat dari website tableau berikut ini:
 https://public.tableau.com/profile/yeni.panjaitan#!/vizhome/ProyekDashboard2/Treemap
 
 ## Idiom Visualisasi 3
+![](Visualization%20PNG/Chloropeth%202.png)
 dapat dilihat dari website tableau berikut ini:
 https://public.tableau.com/profile/yeni.panjaitan#!/vizhome/ProyekDashboard2/Chloropeth
 
 ## Idiom Visualisasi 4
+![](Visualization%20PNG/Barchart.png)
 dapat dilihat dari website tableau berikut ini:
 https://public.tableau.com/profile/yeni.panjaitan#!/vizhome/ProyekDashboard2/BarChart
 
